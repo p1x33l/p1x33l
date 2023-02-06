@@ -10,9 +10,7 @@
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=p1x33l&theme=blue-green" alt="Account Stats">
-16
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p1x33l&theme=blue-green" alt="Most Used Languages">
-17
 
 
 
