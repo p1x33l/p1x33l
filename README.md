@@ -8,7 +8,7 @@ A Software engineer & Artificial Intelligence enthusiast with a passion for deve
 " alt="github"></a>
     <a href="https://t.me/p1x33l" rel="nofollow noreferrer"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
 " alt="telegram"></a>
-    <a href="mailto:medou.elazzaoui@gmail.com" rel="nofollow noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+     <a href="mailto:medou.elazzaoui@gmail.com" rel="nofollow noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 " alt="gmail"></a>
 </p>
 
