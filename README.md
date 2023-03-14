@@ -1,6 +1,6 @@
 <h3>👋 Hi, I'm Mohamed</h3>
 
-<p>A Software engineer & Artificial Intelligence enthusiast with a passion for developing elegant solutions to complex problems. Always seeking new challenges and opportunities to learn and grow. Feel free to reach out if you want to collaborate on a project or just chat about technology.</p>
+<p>A Software engineering & Artificial Intelligence enthusiast with a passion for developing elegant solutions to complex problems. Always seeking new challenges and opportunities to learn and grow. Feel free to reach out if you want to collaborate on a project or just chat about technology.</p>
 
 <p>
   <a href="https://www.linkedin.com/in/elazzaoui/" rel="nofollow noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
