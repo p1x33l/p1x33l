@@ -10,26 +10,5 @@
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=p1x33l&show_icons=true&theme=dark" alt="Account Stats" width="40%"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=p1x33l&theme=dark" alt="Most Used Languages" width="40%">
 
-<h3>I am interested in:</h3>
-<ul><h5><li>Languages:</li></h5>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height=50><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height=50/>
-
-<li>Technologies:</li>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height=50/>
-
-<li>DBMS:</li>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height=50/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height=50/>
-
-
-
-<li>Tools:</li>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height=50/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height=50 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height=50/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height=50/>
-
-</ul>
-
-
 
 
